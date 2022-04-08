@@ -1,0 +1,14 @@
+h1#title {
+    text-align: center;
+}
+p#description {
+    text-align: center;
+    font-size: 18px;
+}
+.table{
+    padding-top:30px;
+}
+body{
+background-image: linear-gradient(to right top, #fdc118, #fcc636, #fccc4b, #fbd15e, #fbd670, #f8db70, #f5df70, #f2e470, #e6ea60, #d5f151, #c0f845, #a3ff3d);  
+height: 100vh;
+}
